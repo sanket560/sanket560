@@ -6,6 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/sanketm45514794" target="blank"><img src="https://img.shields.io/twitter/follow/sanketm45514794?logo=twitter&style=for-the-badge" alt="sanketm45514794" /></a> </p>
 
+<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
+<br>
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" > **About Me:**
+
 - 🔭 I’m currently working on **Department Website**
 
 - 🌱 I’m currently learning **Python and Frontend Developing**
@@ -17,13 +22,13 @@
 
 - 📫 How to reach me **Sanketmmane@gmail.com**
 
-- ⚡ Fun fact **I think I am funny I aslo like play with the code**
+- ⚡ **I Like Coding & I aslo like play with the code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://fb.com/sanketmadhukar.mane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanketmadhukar.mane" height="30" width="40" /></a>
 <a href="https://twitter.com/sanketm45514794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanketm45514794" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanketmane23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanketmane23" height="30" width="40" /></a>
-<a href="https://fb.com/sanketmadhukar.mane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanketmadhukar.mane" height="30" width="40" /></a>
 <a href="https://instagram.com/_____.sanket.______" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_____.sanket.______" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sanket_234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanket_234" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sanketmadhukarmane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sanketmadhukarmane" height="30" width="40" /></a>
