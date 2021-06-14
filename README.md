@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanket Mane</h1>
 
-<img src="https://www.canva.com/design/DAEhYjtGf7E/viewutm_medium=link&utm_source=sharebutton" alt="sanket560" />
+<img src="https://github.com/sanket560/sanket560/blob/main/Black%20and%20Blue%20Business%20Linkedln%20Banner.png" alt="sanket560" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket560&label=Profile%20views&color=0e75b6&style=flat" alt="sanket560" /> </p>
 
