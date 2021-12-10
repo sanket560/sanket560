@@ -6,19 +6,20 @@
 
 <p align="left"> <a href="https://twitter.com/sanketm45514794" target="blank"><img src="https://img.shields.io/twitter/follow/sanketm45514794?logo=twitter&style=for-the-badge" alt="sanketm45514794" /></a> </p>
 
-<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
+<a href="https://app.daily.dev/Sanketmane"><img src="https://api.daily.dev/devcards/ff94d5b1ce8943658dd3a1e497e41986.png?r=vsk" width="400" align="right" alt="Sanket Mane's Dev Card"/></a>
+
 <br>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" > **About Me:**
 
-- 🔭 I’m currently working on **Department Website**
+- 🔭 I’m currently doing diploma in **Computer Engineering in JSP,PUNE**
 
-- 🌱 I’m currently learning **Python and Frontend Developing**
+- 🌱 comming up with **New upcoming skills**
 -   <img src= https://user-images.githubusercontent.com/68066761/121939805-0a200f00-cd6b-11eb-861c-dddfc643c7ce.png width="20"> I always like working in **Linux Environment**
 
 - 👨‍💻 All of my projects are available at [https://sanket560.github.io/Sanket-Portfolio/](https://sanket560.github.io/Sanket-Portfolio/)
 
-- 💬 Ask me about **Frontend Developing**
+- 💬 Ask me about **Frontend Developing , JAVA , PYTHON**
 
 - 📫 How to reach me **Sanketmmane@gmail.com**
 
