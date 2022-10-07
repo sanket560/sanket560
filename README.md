@@ -17,7 +17,7 @@
 - 🌱 comming up with **New upcoming skills**
 -   <img src= https://user-images.githubusercontent.com/68066761/121939805-0a200f00-cd6b-11eb-861c-dddfc643c7ce.png width="20"> I always like working in **Linux Environment**
 
-- 👨‍💻 All of my projects are available at [https://sanket560.github.io/Sanket-Portfolio/](https://sanket560.github.io/Sanket-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://sanket560.github.io/Sanketmane/](https://sanket560.github.io/Sanketmane/)
 
 - 💬 Ask me about **Frontend Developing , JAVA , PYTHON**
 
