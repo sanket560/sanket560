@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Mane</h1>
 
-<img src="Infromation_java.png" alt="bannar" />
+[![@sanketmane's Holopin board](https://holopin.me/sanketmane)](https://holopin.io/@sanketmane)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket560&label=Profile%20views&color=0e75b6&style=flat" alt="sanket560" /> </p>
 
@@ -12,14 +13,14 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" > **About Me:**
 
-- 🔭 I’m currently doing diploma in **Computer Engineering in JSP,PUNE**
+- 🔭 I’m currently pursuing my bachelor of technology in computer engineering from **Vishwakarma university, kondwa**
 
 - 🌱 comming up with **New upcoming skills**
 -   <img src= https://user-images.githubusercontent.com/68066761/121939805-0a200f00-cd6b-11eb-861c-dddfc643c7ce.png width="20"> I always like working in **Linux Environment**
 
 - 👨‍💻 All of my projects are available at [https://sanket560.github.io/Sanketmane/](https://sanket560.github.io/Sanketmane/)
 
-- 💬 Ask me about **Frontend Developing , JAVA , PYTHON**
+- 💬 Ask me about **JAVA , PYTHON , UI**
 
 - 📫 How to reach me **Sanketmmane@gmail.com**
 
