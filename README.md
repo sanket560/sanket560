@@ -2,10 +2,10 @@
 
 [![@sanketmane's Holopin board](https://holopin.me/sanketmane)](https://holopin.io/@sanketmane)
 
-<h3 align="center">Intern @ WESUPP | Member @ Revolution Software Club | Campus Ambassador @ Teachnook | Java enthusiast | Web Dev | UI | Open source enthusiast | B. Tech (3rd yr) | VU'25 | JSCOE'22</h3>
+<h3 align="center">Head - Technology and Project Department @ Revolution Software Club | Placement Coordinator @ VU | Ex - Intern @ WESUPP | Java enthusiast | Web Dev | UI | Open source enthusiast | B. Tech (3rd yr) | VU'25 | JSCOE'22</h3>
 
 
-- 🌱 I’m currently learning **Reactjs , Java and going to learn MERN**
+- 🌱 I’m currently learning **Reactjs, and Java also going to learn MERN**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
